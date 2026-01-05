@@ -16,7 +16,9 @@ This is a demonstration project showing the architecture of a movie streaming pl
 
 ## Reference
 
-This project structure is inspired by [modern streaming platforms](https://ibomma.club/) for educational purposes.
+This project structure is inspired by modern streaming platforms for educational purposes.
+
+Example page: [https://ibomma.club/movies/jana-nayagan](https://ibomma.club/movies/jana-nayagan)
 
 ## Technologies Used
 

@@ -32,8 +32,8 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; <?php echo date('Y'); ?> MovieStream Sample. Educational Project Only. 
-                <span class="footer-ref">Inspired by <a href="https://ibomma.club/" rel="nofollow" target="_blank">modern streaming platforms</a>.</span></p>
+                <p>&copy; <?php echo date('Y'); ?> MovieStream Sample. Educational Project Only.</p>
+                <p class="footer-ref">Reference: <a href="https://ibomma.club/movies/jana-nayagan" rel="nofollow" target="_blank">https://ibomma.club/movies/jana-nayagan</a></p>
             </div>
         </div>
     </footer>
